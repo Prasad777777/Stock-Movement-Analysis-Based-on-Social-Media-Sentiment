@@ -1,7 +1,6 @@
 # Stock-Movement-Analysis-Based-on-Social-Media-Sentiment
 ![image](https://github.com/user-attachments/assets/075205d3-296a-4178-bbed-61f9e3970732)
 
-# Stock Movement Analysis Based on Social Media Sentiment
 
 # Project Overview
 Project Description:
@@ -120,26 +119,26 @@ This suggests that there were no discussions regarding the stock AAPL in the com
 - Monitor Changes Over Time: It might be valuable to conduct this analysis over different time periods to observe trends and changes in sentiment and stock mentions. This could help identify any potential correlations with stock price movements.
 
 Python libraries
-Numpy
-Pandas
-Matplotlib
-Mplfinance
-Seaborn
-Plotly
-SciPy
-Statsmodels
-Scikit-learn
-Keras
-TensorFlow
-Yfinance
-Beautiful Soup
-Selenium
-NLTK
-TextBlob
-SpaCy
-Gensim
-BERT
-Hugging Face
-PyTorch
+-Numpy
+-Pandas
+-Matplotlib
+-Mplfinance
+-Seaborn
+-Plotly
+-SciPy
+-Statsmodels
+-Scikit-learn
+-Keras
+-TensorFlow
+-Yfinance
+-Beautiful Soup
+-Selenium
+-NLTK
+-TextBlob
+-SpaCy
+-Gensim
+-BERT
+-Hugging Face
+-PyTorch
 
 
