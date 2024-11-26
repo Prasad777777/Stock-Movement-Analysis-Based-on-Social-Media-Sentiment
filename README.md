@@ -1,9 +1,29 @@
 # Stock-Movement-Analysis-Based-on-Social-Media-Sentiment
+![image](https://github.com/user-attachments/assets/075205d3-296a-4178-bbed-61f9e3970732)
 
 # Stock Movement Analysis Based on Social Media Sentiment
 
 # Project Overview
-This project aims to analyze and predict stock movements by extracting and analyzing social media data from platforms like Reddit. By performing sentiment analysis on social media discussions related to specific stocks, this project provides insights into potential price trends and signals for buy/sell decisions.
+Project Description:
+This project is about analyzing social media data about Apple Inc. and predicting its future stock trend with sentiment classification. We applied sentiment analysis and machine learning principles to discover the possible effect of "public sentiment" on "market trends".
+
+Prediction of stock price is an extremely complex and very challenging task because there are too many factors involved such as economic circumstances, political events, and other environmental factors which may impact the stock price. Due to these factors, it is difficult to find out the dependence of a single factor on future prices and trends.
+
+The popularity and importance of numerous social media platforms has risen to new levels over the past few years, as more people spend time online. One such social media platform that has seen an explosive rise in popularity is Twitter. Twitter is a rich source of real-time information regarding current societal trends and opinions. The "Twittesphere" is a melting pot driving various opinions, emotions and trends and could be a pivotal factor in influencing and shaping perceptions.
+
+Some statistics regarding Twitter:
+
+Twitter has 145 million monetizable daily active users.
+
+30 million (or 20%) of Twitter’s daily users are American.
+
+92% of the U.S. population is familiar with Twitter (even if they don’t use it).
+
+According to a recent survey by Pew Research Center, around one-in-five U.S. adults (22%) say they use Twitter.
+
+Twitter stands out as one of the social media sites with the most news-focused users.
+
+Behavioural economics tell us that people are not rational consumers and individual behaviours and decisions are greatly affected by emotions and indeed by the opinions of others. Twitter sentiment analysis can be extremely helpful for predicting emotions or opinion on a certain stock. So examining the trending mood on Twitter and observing its relationship to the movement in stock price can help predict the future trend in the market.
 # Objective
 The objective of this project is to understand the relationship between social media sentiment and stock price movements. By scraping relevant data, performing sentiment analysis, and correlating these insights with stock prices, we aim to uncover actionable insights for traders and investors.
 # Setup Instructions
@@ -73,7 +93,7 @@ Frequency of mentions
 - Input: Results from the analysis step.
 - Output: Visualizations (charts, graphs) that show trends in stock sentiment, Frequency of Mentions Over Time and Correlations between sentiment and stock price movements.
 
-
+Results/ Key findings
 ## Screenshots
 
 ![Screenshot 2024-11-26 073133](https://github.com/user-attachments/assets/c342e7a4-af09-4d1a-b024-e320a0c613d2)
@@ -99,6 +119,27 @@ This suggests that there were no discussions regarding the stock AAPL in the com
 
 - Monitor Changes Over Time: It might be valuable to conduct this analysis over different time periods to observe trends and changes in sentiment and stock mentions. This could help identify any potential correlations with stock price movements.
 
-
+Python libraries
+Numpy
+Pandas
+Matplotlib
+Mplfinance
+Seaborn
+Plotly
+SciPy
+Statsmodels
+Scikit-learn
+Keras
+TensorFlow
+Yfinance
+Beautiful Soup
+Selenium
+NLTK
+TextBlob
+SpaCy
+Gensim
+BERT
+Hugging Face
+PyTorch
 
 
